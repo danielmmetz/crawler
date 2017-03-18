@@ -1,0 +1,11 @@
+hash: 2f5c7f07af2c8b842ccd733f61cbf230dd71003f23ebad63d090d0800ae238b4
+updated: 2017-03-17T22:32:47.044826399-07:00
+imports:
+- name: github.com/jackdanger/collectlinks
+  version: 24c4ee2870ba625f927b59de8c421c3f0be82b90
+- name: golang.org/x/net
+  version: a6577fac2d73be281a500b310739095313165611
+  subpackages:
+  - html
+  - html/atom
+testImports: []
